@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-native-has-power/static/css/main.e583d298.chunk.css"
   },
   {
-    "revision": "a224e2d8334ff7eb24f85a5bf914dd2b",
+    "revision": "6ca040e6c9ef6a97862ff541b0c83905",
     "url": "/react-native-has-power/index.html"
   }
 ];
