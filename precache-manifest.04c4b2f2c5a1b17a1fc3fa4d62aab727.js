@@ -4,19 +4,19 @@ self.__precacheManifest = [
     "url": "/react-native-has-power/static/js/runtime~main.9967be7e.js"
   },
   {
-    "revision": "294f2c09f6d87690758f",
-    "url": "/react-native-has-power/static/js/main.294f2c09.chunk.js"
+    "revision": "149ed29021d737726368",
+    "url": "/react-native-has-power/static/js/main.149ed290.chunk.js"
   },
   {
     "revision": "2d0e2afb9f84e8360784",
     "url": "/react-native-has-power/static/js/1.2d0e2afb.chunk.js"
   },
   {
-    "revision": "294f2c09f6d87690758f",
+    "revision": "149ed29021d737726368",
     "url": "/react-native-has-power/static/css/main.e583d298.chunk.css"
   },
   {
-    "revision": "9a0e246e9c9020bc957451a468f265bb",
+    "revision": "6ca040e6c9ef6a97862ff541b0c83905",
     "url": "/react-native-has-power/index.html"
   }
 ];
